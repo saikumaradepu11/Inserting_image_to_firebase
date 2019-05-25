@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245448760304",
+    "firebase_url": "https://imagekabap.firebaseio.com",
+    "project_id": "imagekabap",
+    "storage_bucket": "imagekabap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245448760304:android:f9eab94bf3e7ca1e",
+        "android_client_info": {
+          "package_name": "com.example.saikumar.image_ka_bap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245448760304-o2u7ebr4po49l50694d59e7jd4qnchol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saikumar.image_ka_bap",
+            "certificate_hash": "1a98447ce1550f25ba26e54c1209c0980c9d27ea"
+          }
+        },
+        {
+          "client_id": "245448760304-99fs2ieobrq1d3i794r3dde791227bhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQE1v_s5Sih_3AJpGXoXIAtWRmF0NLPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245448760304-99fs2ieobrq1d3i794r3dde791227bhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
